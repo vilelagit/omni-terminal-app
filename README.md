@@ -1,3 +1,3 @@
 # omni-terminal-app
 
-## Proposta de tema pro Terminal.app
+## Proposta de tema: Omni Terminal.app
