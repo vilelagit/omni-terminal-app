@@ -2,7 +2,8 @@
 
 ## Proposta de tema.
 
-![Omni](./omni.png)
-
 ### Com o roxo da Rocketseat #7159c1
 ![Omnibold](./omnibold.png)
+
+### Padrão 
+![Omni](./omni.png)
