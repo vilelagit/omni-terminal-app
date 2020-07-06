@@ -2,8 +2,8 @@
 
 ## Proposta de tema.
 
-### Com o roxo da Rocketseat #7159c1
+### Omni_bold - Com o roxo da Rocketseat #7159c1 nos textos em negrito.
 ![Omnibold](./omnibold.png)
 
-### Padrão 
+### Omni_ - Com a cor branco Padrão nos textos em negrito.
 ![Omni](./omni.png)
